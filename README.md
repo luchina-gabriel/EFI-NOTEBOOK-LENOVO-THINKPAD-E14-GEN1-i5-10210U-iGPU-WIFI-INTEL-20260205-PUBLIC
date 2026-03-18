@@ -1,5 +1,7 @@
 # Hackintosh, Lenovo ThinkPad E14, Intel Core i5-10210U, Intel(R) UHD Graphics, WiFi/BT Intel and macOS Tahoe
 
+<img width="1988" height="1186" alt="WiFi Activated - RPCORE 1 0 0" src="https://github.com/user-attachments/assets/89ef9cbb-42e3-42fa-b5f1-fa07a2880a90" />
+
 # Basic Information
 
 **Latest working macOS**: macOS Tahoe (26.3.2)
