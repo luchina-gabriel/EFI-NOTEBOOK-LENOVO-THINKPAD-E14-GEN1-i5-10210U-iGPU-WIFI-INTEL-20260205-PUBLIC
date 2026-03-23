@@ -6,9 +6,9 @@
 
 **Latest working macOS**: macOS Tahoe (26.3.2)
 <br>
-**Current OpenCore**: 1.0.6
+**Current OpenCore**: 1.0.7
 <br>
-**Release date**: 18/03/2026
+**Release date**: 23/03/2026
 
 # Hackintosh Specifications
 |Item|Description|
